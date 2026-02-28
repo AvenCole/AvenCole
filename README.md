@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-[![ALEXNIAN](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ALEXNIAN)](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ALEXNIAN)
+[![ALEXNIAN](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=AvenCole)](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=AvenCole)
 
 </div>
 
