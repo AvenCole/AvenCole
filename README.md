@@ -42,4 +42,4 @@
 ![Ethereum](https://img.shields.io/badge/ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=%236172E5)
 
 ## GitHub stats:
-[![1IANZ's GitHub stats](https://github-readme-stats-mauve-seven-77.vercel.app/api?username=1IANZ&show_icons=true&theme=transparent)](https://github.com/1IANZ/github-readme-stats)
+[![AvenCole's GitHub stats](https://github-readme-stats-mauve-seven-77.vercel.app/api?username=AvenCole&show_icons=true&theme=transparent)](https://github.com/AvenCole/github-readme-stats)
